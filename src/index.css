@@ -1,0 +1,24 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .color1 {color: #0c272c;}
+.color2 {color: #376072;}
+.color3 {color: #3f8188;}
+.color4 {color: #55a0a2;}
+.color5 {color: #80b5b5;}*/
+
+body{
+    background-color:  rgba(0, 0, 0, 0.849);
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+.App{
+    min-height: 91.7vh;
+
+}
+
+footer{
+    position: absolute;
+}
